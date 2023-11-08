@@ -4,7 +4,7 @@ import macros, hashes
 import std/base64
 import std/strformat
 import sequtils
-
+import src/nimstrenc
 type
   # Use a distinct string type so we won't recurse forever
   gkkaekgaEEgkkaekgaEEgkkaekgaEEgkkaekgaEEgkkaekgaEEgkkaekgaEEgkkaekgaEE = distinct string
